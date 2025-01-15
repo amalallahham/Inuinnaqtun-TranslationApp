@@ -1,1 +1,1 @@
-# group8-frontend
+# Inuinnaqtun TranslationApp - Frontend
